@@ -8,3 +8,9 @@ Medidor de velocidad de escritura, midiendo las palabras escritas por minuto.
 * Un botón de reinicio.
 * Reloj y cronómetro.
 * Entrada de texto.
+
+# 🖼️ Imagen ventana prueba escritura veloz
+![](sccreenshot.png)
+
+# ✉️ Contacto
+mactoscan@gmail.com
