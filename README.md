@@ -10,7 +10,7 @@ Medidor de velocidad de escritura, midiendo las palabras escritas por minuto.
 * Entrada de texto.
 
 # 🖼️ Imagen ventana prueba escritura veloz
-![](sccreenshot.png)
+![](screenshot.png)
 
 # ✉️ Contacto
 mactoscan@gmail.com
