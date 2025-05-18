@@ -9,6 +9,13 @@ Medidor de velocidad de escritura, midiendo las palabras escritas por minuto.
 * Reloj y cronómetro.
 * Entrada de texto.
 
+## Librerias
+
+Implementación de las siguientes librerías:
+* tkinter
+* time
+* random
+
 # 🖼️ Imagen ventana prueba escritura veloz
 ![](screenshot.png)
 
